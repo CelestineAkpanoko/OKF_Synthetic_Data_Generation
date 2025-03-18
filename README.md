@@ -51,20 +51,24 @@ OKF_SYNTHETIC_DATA_GENERATION/
 ```bash
 git clone https://github.com/your-repo/OKF_SYNTHETIC_DATA_GENERATION.git
 cd OKF_SYNTHETIC_DATA_GENERATION
+```
 2. Create & Activate Virtual Environment
 ```bash
 python -m venv venv
 venv\Scripts\activate  # On Windows
+```
 ### OR
 source venv/bin/activate  # On Mac/Linux
 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 4. Set Up Groq API Key
 You need a Groq API Key to generate synthetic data. Export it as an environment variable:
 
 ```bash
 set GROQ_API_KEY=your_api_key  # Windows
+```
 ### OR
 export GROQ_API_KEY=your_api_key  # Mac/Linux
 Running the Project
@@ -88,9 +92,11 @@ You can generate data for specific products in different domains.
 Example 1: Cooking Domain (Oatmeal Cookie, Pancake, Chocolate Cake)
 ```bash
 python main.py --version lastest --domain "cooking" --scenario "A chaotic environment where a baker wants to bake something" --products "Oatmeal Cookie" "Pancake" "Chocolate Cake" --api_key "your_api_key"
+```
 Example 2: Manufacturing Domain (Custom Engine, Industrial Drill, Robotic Arm)
 ```bash
 python main.py --version latest --domain "manufacturing" --scenario "An automated factory producing high-precision equipment" --products "Custom Engine" "Industrial Drill" "Robotic Arm" --api_key "your_api_key"
+```
 This will:
 
 Use manufacturing domain context.
