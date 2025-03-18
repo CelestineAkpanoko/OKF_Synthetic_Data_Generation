@@ -1,0 +1,410 @@
+{
+  "Oatmeal cookie": {
+    "OKW": {
+      "title": "Oatmeal Cookie Production",
+      "description": "A recipe for producing oatmeal cookies in a proactive kitchen",
+      "contact": "Kitchen Manager",
+      "keywords": [
+        "oatmeal cookie",
+        "baking",
+        "proactive kitchen"
+      ],
+      "contributors": [
+        "Head Chef",
+        "Kitchen Staff"
+      ],
+      "version": "1.0",
+      "development-stage": "production",
+      "license": "MIT",
+      "licensor": "Open Kitchen Works",
+      "documentation-home": "https://openkitchenworks.org/oatmeal-cookie",
+      "archive-download": "https://openkitchenworks.org/oatmeal-cookie/archive",
+      "inventory-atoms": [
+        {
+          "identifier": "Rolled Oats",
+          "description": "4 cups of rolled oats",
+          "link": "https://example.com/rolled-oats"
+        },
+        {
+          "identifier": "All-Purpose Flour",
+          "description": "2 cups of all-purpose flour",
+          "link": "https://example.com/all-purpose-flour"
+        },
+        {
+          "identifier": "Baking Soda",
+          "description": "1 teaspoon of baking soda",
+          "link": "https://example.com/baking-soda"
+        },
+        {
+          "identifier": "Salt",
+          "description": "1 teaspoon of salt",
+          "link": "https://example.com/salt"
+        },
+        {
+          "identifier": "Granulated Sugar",
+          "description": "1 cup of granulated sugar",
+          "link": "https://example.com/granulated-sugar"
+        },
+        {
+          "identifier": "Brown Sugar",
+          "description": "1 cup of brown sugar",
+          "link": "https://example.com/brown-sugar"
+        },
+        {
+          "identifier": "Butter",
+          "description": "1 cup of unsalted butter, softened",
+          "link": "https://example.com/unsalted-butter"
+        },
+        {
+          "identifier": "Large Eggs",
+          "description": "2 large eggs",
+          "link": "https://example.com/large-eggs"
+        },
+        {
+          "identifier": "Vanilla Extract",
+          "description": "1 teaspoon of vanilla extract",
+          "link": "https://example.com/vanilla-extract"
+        },
+        {
+          "identifier": "Walnuts",
+          "description": "1 cup of chopped walnuts (optional)",
+          "link": "https://example.com/chopped-walnuts"
+        }
+      ],
+      "product-atoms": [
+        {
+          "identifier": "Oatmeal Cookie Dough",
+          "description": "A mixture of rolled oats, all-purpose flour, baking soda, salt, granulated sugar, brown sugar, butter, eggs, and vanilla extract",
+          "link": "https://example.com/oatmeal-cookie-dough"
+        },
+        {
+          "identifier": "Oatmeal Cookies",
+          "description": "Baked oatmeal cookies, optionally with walnuts",
+          "link": "https://example.com/oatmeal-cookies"
+        }
+      ],
+      "tool-list-atoms": [
+        {
+          "identifier": "Mixing Bowl",
+          "description": "A large mixing bowl for combining ingredients",
+          "link": "https://example.com/mixing-bowl"
+        },
+        {
+          "identifier": "Whisk",
+          "description": "A whisk for mixing ingredients",
+          "link": "https://example.com/whisk"
+        },
+        {
+          "identifier": "Measuring Cups",
+          "description": "Measuring cups for measuring ingredients",
+          "link": "https://example.com/measuring-cups"
+        },
+        {
+          "identifier": "Measuring Spoons",
+          "description": "Measuring spoons for measuring ingredients",
+          "link": "https://example.com/measuring-spoons"
+        },
+        {
+          "identifier": "Electric Mixer",
+          "description": "An electric mixer for creaming butter and sugar",
+          "link": "https://example.com/electric-mixer"
+        },
+        {
+          "identifier": "Baking Sheet",
+          "description": "A baking sheet for baking oatmeal cookies",
+          "link": "https://example.com/baking-sheet"
+        },
+        {
+          "identifier": "Oven",
+          "description": "An oven for baking oatmeal cookies",
+          "link": "https://example.com/oven"
+        }
+      ],
+      "processes": [
+        {
+          "identifier": "Preheating the Oven",
+          "description": "Preheat the oven to 375\u00b0F (190\u00b0C)",
+          "link": "https://example.com/preheating-the-oven"
+        },
+        {
+          "identifier": "Mixing the Dry Ingredients",
+          "description": "Combine rolled oats, all-purpose flour, baking soda, and salt in a large mixing bowl",
+          "link": "https://example.com/mixing-the-dry-ingredients"
+        },
+        {
+          "identifier": "Creaming the Butter and Sugar",
+          "description": "Use an electric mixer to cream together butter and sugars until light and fluffy",
+          "link": "https://example.com/creaming-the-butter-and-sugar"
+        },
+        {
+          "identifier": "Beating in the Eggs and Vanilla Extract",
+          "description": "Beat in eggs and vanilla extract until well combined",
+          "link": "https://example.com/beating-in-the-eggs-and-vanilla-extract"
+        },
+        {
+          "identifier": "Combining the Wet and Dry Ingredients",
+          "description": "Combine the wet and dry ingredients, stirring until just combined",
+          "link": "https://example.com/combining-the-wet-and-dry-ingredients"
+        },
+        {
+          "identifier": "Adding the Walnuts (Optional)",
+          "description": "Stir in chopped walnuts, if using",
+          "link": "https://example.com/adding-the-walnuts-optional"
+        },
+        {
+          "identifier": "Scooping the Cookie Dough",
+          "description": "Scoop tablespoon-sized balls of cookie dough onto a baking sheet",
+          "link": "https://example.com/scooping-the-cookie-dough"
+        },
+        {
+          "identifier": "Baking the Oatmeal Cookies",
+          "description": "Bake the oatmeal cookies for 10-12 minutes, or until lightly golden brown",
+          "link": "https://example.com/baking-the-oatmeal-cookies"
+        }
+      ]
+    },
+    "OKH": {
+      "date-created": "2022-01-01",
+      "date-updated": "2022-01-01",
+      "manifest-author": {
+        "name": "John Doe",
+        "affiliation": "Kitchen Team",
+        "email": "john.doe@example.com"
+      },
+      "title": "Oatmeal Cookie",
+      "description": "A delicious oatmeal cookie recipe for a proactive kitchen",
+      "intended-use": "Baking oatmeal cookies for personal consumption or sale",
+      "keywords": [
+        "oatmeal",
+        "cookie",
+        "baking",
+        "proactive kitchen"
+      ],
+      "project-link": "https://example.com/oatmeal-cookie-project",
+      "health-safety-notice": "Please follow proper food safety guidelines when handling and consuming the cookies",
+      "contact": {
+        "name": "Jane Doe",
+        "affiliation": "Kitchen Team",
+        "email": "jane.doe@example.com"
+      },
+      "contributors": [
+        {
+          "name": "John Doe",
+          "affiliation": "Kitchen Team",
+          "email": "john.doe@example.com"
+        },
+        {
+          "name": "Jane Doe",
+          "affiliation": "Kitchen Team",
+          "email": "jane.doe@example.com"
+        }
+      ],
+      "image": "https://example.com/oatmeal-cookie-image.jpg",
+      "version": "1.0",
+      "development-stage": "Production",
+      "made": true,
+      "made-independently": true,
+      "standards-used": [
+        {
+          "standard-title": "Food Safety Standard",
+          "publisher": "FDA",
+          "reference": "FDA Food Safety Standard"
+        }
+      ],
+      "derivative-of": {
+        "title": "Original Oatmeal Cookie Recipe",
+        "manifest": "https://example.com/original-oatmeal-cookie-manifest"
+      },
+      "variant-of": {
+        "title": "Oatmeal Raisin Cookie Recipe",
+        "manifest": "https://example.com/oatmeal-raisin-cookie-manifest"
+      },
+      "sub": {
+        "title": "Oatmeal Cookie Dough",
+        "manifest": "https://example.com/oatmeal-cookie-dough-manifest"
+      },
+      "license": {
+        "documentation": "CC BY-SA 4.0",
+        "hardware": "None",
+        "software": "None"
+      },
+      "licensor": {
+        "name": "John Doe",
+        "affiliation": "Kitchen Team",
+        "email": "john.doe@example.com"
+      },
+      "documentation-home": "https://example.com/oatmeal-cookie-documentation",
+      "archive-download": "https://example.com/oatmeal-cookie-archive.zip",
+      "design-files": [
+        {
+          "title": "Oatmeal Cookie Design",
+          "path": "https://example.com/oatmeal-cookie-design.pdf"
+        }
+      ],
+      "schematics": [
+        {
+          "title": "Oatmeal Cookie Schematic",
+          "path": "https://example.com/oatmeal-cookie-schematic.pdf"
+        }
+      ],
+      "bom": {
+        "title": "Oatmeal Cookie Bill of Materials",
+        "path": "https://example.com/oatmeal-cookie-bom.csv"
+      },
+      "tool-list": {
+        "title": "Oatmeal Cookie Tool List",
+        "path": "https://example.com/oatmeal-cookie-tool-list.csv"
+      },
+      "making-instructions": [
+        {
+          "title": "Oatmeal Cookie Making Instructions",
+          "path": "https://example.com/oatmeal-cookie-instructions.pdf"
+        }
+      ],
+      "manufacturing-files": {
+        "title": "Oatmeal Cookie Manufacturing Files",
+        "path": "https://example.com/oatmeal-cookie-manufacturing-files.zip"
+      },
+      "risk-assessment": [
+        {
+          "title": "Oatmeal Cookie Risk Assessment",
+          "path": "https://example.com/oatmeal-cookie-risk-assessment.pdf"
+        }
+      ],
+      "tool-settings": [
+        {
+          "title": "Oatmeal Cookie Tool Settings",
+          "path": "https://example.com/oatmeal-cookie-tool-settings.pdf"
+        }
+      ],
+      "quality-instructions": [
+        {
+          "title": "Oatmeal Cookie Quality Instructions",
+          "path": "https://example.com/oatmeal-cookie-quality-instructions.pdf"
+        }
+      ],
+      "operating-instructions": [
+        {
+          "title": "Oatmeal Cookie Operating Instructions",
+          "path": "https://example.com/oatmeal-cookie-operating-instructions.pdf"
+        }
+      ],
+      "maintenance-instructions": [
+        {
+          "title": "Oatmeal Cookie Maintenance Instructions",
+          "path": "https://example.com/oatmeal-cookie-maintenance-instructions.pdf"
+        }
+      ],
+      "disposal-instructions": [
+        {
+          "title": "Oatmeal Cookie Disposal Instructions",
+          "path": "https://example.com/oatmeal-cookie-disposal-instructions.pdf"
+        }
+      ],
+      "software": [
+        {
+          "title": "Oatmeal Cookie Software",
+          "path": "https://example.com/oatmeal-cookie-software.zip"
+        }
+      ],
+      "manifest-language": "en-US",
+      "documentation_language": "en-US",
+      "product-atom": {
+        "identifier": "Oatmeal Cookie",
+        "description": "A delicious oatmeal cookie",
+        "link": "https://example.com/oatmeal-cookie"
+      },
+      "bom-atoms": [
+        {
+          "identifier": "All-Purpose Flour",
+          "description": "2 1/4 cups of all-purpose flour",
+          "link": "https://example.com/all-purpose-flour"
+        },
+        {
+          "identifier": "Rolled Oats",
+          "description": "1 cup of rolled oats",
+          "link": "https://example.com/rolled-oats"
+        },
+        {
+          "identifier": "Baking Soda",
+          "description": "1 teaspoon of baking soda",
+          "link": "https://example.com/baking-soda"
+        },
+        {
+          "identifier": "Salt",
+          "description": "1/2 teaspoon of salt",
+          "link": "https://example.com/salt"
+        },
+        {
+          "identifier": "Granulated Sugar",
+          "description": "1 cup of granulated sugar",
+          "link": "https://example.com/granulated-sugar"
+        },
+        {
+          "identifier": "Brown Sugar",
+          "description": "1/2 cup of brown sugar",
+          "link": "https://example.com/brown-sugar"
+        },
+        {
+          "identifier": "Butter",
+          "description": "1 cup of butter",
+          "link": "https://example.com/butter"
+        },
+        {
+          "identifier": "Eggs",
+          "description": "2 eggs",
+          "link": "https://example.com/eggs"
+        },
+        {
+          "identifier": "Vanilla Extract",
+          "description": "1 teaspoon of vanilla extract",
+          "link": "https://example.com/vanilla-extract"
+        }
+      ],
+      "tool-list-atoms": [
+        {
+          "identifier": "Mixing Bowl",
+          "description": "A large mixing bowl",
+          "link": "https://example.com/mixing-bowl"
+        },
+        {
+          "identifier": "Whisk",
+          "description": "A whisk for mixing",
+          "link": "https://example.com/whisk"
+        },
+        {
+          "identifier": "Measuring Cups",
+          "description": "Measuring cups for measuring ingredients",
+          "link": "https://example.com/measuring-cups"
+        },
+        {
+          "identifier": "Measuring Spoons",
+          "description": "Measuring spoons for measuring ingredients",
+          "link": "https://example.com/measuring-spoons"
+        },
+        {
+          "identifier": "Electric Mixer",
+          "description": "An electric mixer for mixing",
+          "link": "https://example.com/electric-mixer"
+        },
+        {
+          "identifier": "Baking Sheet",
+          "description": "A baking sheet for baking",
+          "link": "https://example.com/baking-sheet"
+        }
+      ],
+      "bom-output-atoms": [
+        {
+          "identifier": "Oatmeal Cookie Dough",
+          "description": "The dough for the oatmeal cookies",
+          "link": "https://example.com/oatmeal-cookie-dough"
+        },
+        {
+          "identifier": "Oatmeal Cookies",
+          "description": "The baked oatmeal cookies",
+          "link": "https://example.com/oatmeal-cookies"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+You are a data generation assistant for supply chain resilience in the "{domain}" domain.
+Current scenario: "{scenario}".
+Your task is to generate realistic data for a "{product}" product for {type_label}
+based on the following schema:
+
+{json.dumps(schema, indent=2)}
+
+It is crucial to ensure you provide in-depth details for product-atom, bom-atoms, and tool-list-atoms according to the schema. 
+Please consider the tiniest details for the product and its components.
+
+Important Requirements:
+1. Output must be strictly valid JSON.
+2. Do not include any additional text, explanation, or code fences—just the JSON.
+3. The environment is chaotic, so factor in potential disruptions or uncertainties.
+4. For OKH, ensure the manufacturing/production instructions are complete (like a recipe).
+5. For OKW, ensure the location/facility/tooling data is accurate to the domain.
+
+Return only valid JSON that strictly follows the above schema.
