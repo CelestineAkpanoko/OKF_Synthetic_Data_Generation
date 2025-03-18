@@ -1,0 +1,335 @@
+{
+  "Oatmeal cookie": {
+    "OKW": {
+      "title": "Oatmeal Cookie Production",
+      "description": "A recipe for producing oatmeal cookies in a proactive kitchen",
+      "contact": "Kitchen Manager",
+      "keywords": [
+        "oatmeal cookie",
+        "baking",
+        "proactive kitchen"
+      ],
+      "contributors": [
+        "Head Chef",
+        "Kitchen Staff"
+      ],
+      "version": "1.0",
+      "development-stage": "production",
+      "license": "MIT",
+      "licensor": "Proactive Kitchen Inc.",
+      "documentation-home": "https://example.com/oatmeal-cookie-docs",
+      "archive-download": "https://example.com/oatmeal-cookie-archive",
+      "inventory-atoms": [
+        {
+          "identifier": "oats",
+          "description": "Rolled oats for oatmeal cookies",
+          "link": "https://example.com/oats-supplier"
+        },
+        {
+          "identifier": "sugar",
+          "description": "Granulated sugar for oatmeal cookies",
+          "link": "https://example.com/sugar-supplier"
+        },
+        {
+          "identifier": "flour",
+          "description": "All-purpose flour for oatmeal cookies",
+          "link": "https://example.com/flour-supplier"
+        },
+        {
+          "identifier": "butter",
+          "description": "Unsalted butter for oatmeal cookies",
+          "link": "https://example.com/butter-supplier"
+        },
+        {
+          "identifier": "eggs",
+          "description": "Large eggs for oatmeal cookies",
+          "link": "https://example.com/eggs-supplier"
+        },
+        {
+          "identifier": "vanilla extract",
+          "description": "Pure vanilla extract for oatmeal cookies",
+          "link": "https://example.com/vanilla-extract-supplier"
+        },
+        {
+          "identifier": "baking soda",
+          "description": "Baking soda for oatmeal cookies",
+          "link": "https://example.com/baking-soda-supplier"
+        },
+        {
+          "identifier": "salt",
+          "description": "Kosher salt for oatmeal cookies",
+          "link": "https://example.com/salt-supplier"
+        },
+        {
+          "identifier": "walnuts",
+          "description": "Chopped walnuts for oatmeal cookies",
+          "link": "https://example.com/walnuts-supplier"
+        }
+      ],
+      "product-atoms": [
+        {
+          "identifier": "oatmeal cookies",
+          "description": "Freshly baked oatmeal cookies",
+          "link": "https://example.com/oatmeal-cookies"
+        }
+      ],
+      "tool-list-atoms": [
+        {
+          "identifier": "mixing bowl",
+          "description": "Stainless steel mixing bowl for oatmeal cookie dough",
+          "link": "https://example.com/mixing-bowl-supplier"
+        },
+        {
+          "identifier": "whisk",
+          "description": "Balloon whisk for mixing oatmeal cookie dough",
+          "link": "https://example.com/whisk-supplier"
+        },
+        {
+          "identifier": "measuring cups",
+          "description": "Dry and liquid measuring cups for oatmeal cookie ingredients",
+          "link": "https://example.com/measuring-cups-supplier"
+        },
+        {
+          "identifier": "electric mixer",
+          "description": "Stand mixer for creaming butter and sugar",
+          "link": "https://example.com/electric-mixer-supplier"
+        },
+        {
+          "identifier": "baking sheet",
+          "description": "Non-stick baking sheet for oatmeal cookies",
+          "link": "https://example.com/baking-sheet-supplier"
+        },
+        {
+          "identifier": "oven",
+          "description": "Commercial oven for baking oatmeal cookies",
+          "link": "https://example.com/oven-supplier"
+        }
+      ],
+      "processes": [
+        {
+          "identifier": "preheating oven",
+          "description": "Preheat oven to 375\u00b0F (190\u00b0C) for baking oatmeal cookies",
+          "link": "https://example.com/oven-preheating-instructions"
+        },
+        {
+          "identifier": "mixing dough",
+          "description": "Mix oatmeal cookie dough ingredients in a stainless steel bowl",
+          "link": "https://example.com/mixing-dough-instructions"
+        },
+        {
+          "identifier": "scooping cookies",
+          "description": "Scoop oatmeal cookie dough onto a non-stick baking sheet",
+          "link": "https://example.com/scooping-cookies-instructions"
+        },
+        {
+          "identifier": "baking cookies",
+          "description": "Bake oatmeal cookies in a commercial oven for 10-12 minutes",
+          "link": "https://example.com/baking-cookies-instructions"
+        },
+        {
+          "identifier": "cooling cookies",
+          "description": "Cool oatmeal cookies on a wire rack for 5-10 minutes",
+          "link": "https://example.com/cooling-cookies-instructions"
+        }
+      ]
+    },
+    "OKH": {
+      "date-created": "2022-01-01",
+      "date-updated": "2022-01-15",
+      "manifest-author": {
+        "name": "John Doe",
+        "affiliation": "Proactive Kitchen",
+        "email": "johndoe@proactivekitchen.com"
+      },
+      "title": "Oatmeal Cookie",
+      "description": "A delicious oatmeal cookie recipe for a proactive kitchen",
+      "intended-use": "Baking oatmeal cookies for personal consumption or sale",
+      "keywords": [
+        "oatmeal",
+        "cookie",
+        "baking",
+        "proactive kitchen"
+      ],
+      "project-link": "https://proactivekitchen.com/oatmeal-cookie",
+      "health-safety-notice": "Handle hot baking sheets with care. Wash hands before handling food.",
+      "contact": {
+        "name": "Jane Smith",
+        "affiliation": "Proactive Kitchen",
+        "email": "janesmith@proactivekitchen.com"
+      },
+      "contributors": [
+        {
+          "name": "John Doe",
+          "affiliation": "Proactive Kitchen",
+          "email": "johndoe@proactivekitchen.com"
+        },
+        {
+          "name": "Jane Smith",
+          "affiliation": "Proactive Kitchen",
+          "email": "janesmith@proactivekitchen.com"
+        }
+      ],
+      "image": "https://proactivekitchen.com/oatmeal-cookie-image.jpg",
+      "version": "1.0",
+      "development-stage": "production",
+      "made": true,
+      "made-independently": true,
+      "standards-used": [
+        {
+          "standard-title": "Food Safety Standards",
+          "publisher": "FDA",
+          "reference": "FDA Food Safety Standards"
+        }
+      ],
+      "derivative-of": {
+        "title": "Original Oatmeal Cookie Recipe",
+        "manifest": "https://originalrecipe.com/oatmeal-cookie-manifest.json"
+      },
+      "variant-of": {
+        "title": "Oatmeal Raisin Cookie",
+        "manifest": "https://variantrecipe.com/oatmeal-raisin-cookie-manifest.json"
+      },
+      "sub": {
+        "title": "Oatmeal",
+        "manifest": "https://oatmeal.com/oatmeal-manifest.json"
+      },
+      "license": {
+        "documentation": "CC BY-SA 4.0",
+        "hardware": "None",
+        "software": "None"
+      },
+      "licensor": {
+        "name": "Proactive Kitchen",
+        "affiliation": "Proactive Kitchen",
+        "email": "info@proactivekitchen.com"
+      },
+      "documentation-home": "https://proactivekitchen.com/oatmeal-cookie-documentation",
+      "archive-download": "https://proactivekitchen.com/oatmeal-cookie-archive.zip",
+      "design-files": [
+        {
+          "title": "Oatmeal Cookie Design",
+          "path": "https://proactivekitchen.com/oatmeal-cookie-design.pdf"
+        }
+      ],
+      "schematics": [
+        {
+          "title": "Oatmeal Cookie Schematic",
+          "path": "https://proactivekitchen.com/oatmeal-cookie-schematic.pdf"
+        }
+      ],
+      "bom": {
+        "title": "Oatmeal Cookie Bill of Materials",
+        "path": "https://proactivekitchen.com/oatmeal-cookie-bom.csv"
+      },
+      "tool-list": {
+        "title": "Oatmeal Cookie Tool List",
+        "path": "https://proactivekitchen.com/oatmeal-cookie-tool-list.csv"
+      },
+      "making-instructions": [
+        {
+          "title": "Oatmeal Cookie Making Instructions",
+          "path": "https://proactivekitchen.com/oatmeal-cookie-instructions.pdf"
+        }
+      ],
+      "manufacturing-files": {
+        "title": "Oatmeal Cookie Manufacturing Files",
+        "path": "https://proactivekitchen.com/oatmeal-cookie-manufacturing-files.zip"
+      },
+      "risk-assessment": [
+        {
+          "title": "Oatmeal Cookie Risk Assessment",
+          "path": "https://proactivekitchen.com/oatmeal-cookie-risk-assessment.pdf"
+        }
+      ],
+      "tool-settings": [
+        {
+          "title": "Oatmeal Cookie Tool Settings",
+          "path": "https://proactivekitchen.com/oatmeal-cookie-tool-settings.pdf"
+        }
+      ],
+      "quality-instructions": [
+        {
+          "title": "Oatmeal Cookie Quality Instructions",
+          "path": "https://proactivekitchen.com/oatmeal-cookie-quality-instructions.pdf"
+        }
+      ],
+      "operating-instructions": [
+        {
+          "title": "Oatmeal Cookie Operating Instructions",
+          "path": "https://proactivekitchen.com/oatmeal-cookie-operating-instructions.pdf"
+        }
+      ],
+      "maintenance-instructions": [
+        {
+          "title": "Oatmeal Cookie Maintenance Instructions",
+          "path": "https://proactivekitchen.com/oatmeal-cookie-maintenance-instructions.pdf"
+        }
+      ],
+      "disposal-instructions": [
+        {
+          "title": "Oatmeal Cookie Disposal Instructions",
+          "path": "https://proactivekitchen.com/oatmeal-cookie-disposal-instructions.pdf"
+        }
+      ],
+      "software": [
+        {
+          "title": "Oatmeal Cookie Software",
+          "path": "https://proactivekitchen.com/oatmeal-cookie-software.zip"
+        }
+      ],
+      "manifest-language": "en",
+      "documentation_language": "en",
+      "product-atom": {
+        "identifier": "oatmeal-cookie",
+        "description": "A delicious oatmeal cookie",
+        "link": "https://proactivekitchen.com/oatmeal-cookie"
+      },
+      "bom-atoms": [
+        {
+          "identifier": "oatmeal",
+          "description": "Rolled oats",
+          "link": "https://oatmeal.com/oatmeal"
+        },
+        {
+          "identifier": "sugar",
+          "description": "Granulated sugar",
+          "link": "https://sugar.com/sugar"
+        },
+        {
+          "identifier": "butter",
+          "description": "Unsalted butter",
+          "link": "https://butter.com/butter"
+        }
+      ],
+      "tool-list-atoms": [
+        {
+          "identifier": "mixing-bowl",
+          "description": "Stainless steel mixing bowl",
+          "link": "https://mixingbowl.com/mixing-bowl"
+        },
+        {
+          "identifier": "whisk",
+          "description": "Stainless steel whisk",
+          "link": "https://whisk.com/whisk"
+        },
+        {
+          "identifier": "baking-sheet",
+          "description": "Aluminum baking sheet",
+          "link": "https://baking-sheet.com/baking-sheet"
+        }
+      ],
+      "bom-output-atoms": [
+        {
+          "identifier": "oatmeal-cookie-dough",
+          "description": "Oatmeal cookie dough",
+          "link": "https://proactivekitchen.com/oatmeal-cookie-dough"
+        },
+        {
+          "identifier": "oatmeal-cookies",
+          "description": "Baked oatmeal cookies",
+          "link": "https://proactivekitchen.com/oatmeal-cookies"
+        }
+      ]
+    }
+  }
+}
