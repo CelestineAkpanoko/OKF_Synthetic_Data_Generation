@@ -1,0 +1,764 @@
+{
+  "Oatmeal cookie": {
+    "OKW": {
+      "title": "Oatmeal Cookie",
+      "description": "A sweet cookie made with rolled oats, sugar, and spices",
+      "contact": "Baker's Guild",
+      "keywords": [
+        "oatmeal",
+        "cookie",
+        "baking",
+        "sweet"
+      ],
+      "contributors": [
+        "Head Baker",
+        "Assistant Baker"
+      ],
+      "version": 1.0,
+      "development-stage": "production",
+      "license": "CC-BY-SA",
+      "licensor": "Baker's Guild",
+      "documentation-home": "https://bakersguild.org/recipes/oatmeal-cookie",
+      "archive-download": "https://bakersguild.org/recipes/oatmeal-cookie/archive",
+      "inventory-atoms": [
+        {
+          "identifier": "rolled-oats"
+        },
+        {
+          "identifier": "sugar"
+        },
+        {
+          "identifier": "butter"
+        },
+        {
+          "identifier": "eggs"
+        },
+        {
+          "identifier": "flour"
+        },
+        {
+          "identifier": "baking-soda"
+        },
+        {
+          "identifier": "cinnamon"
+        },
+        {
+          "identifier": "salt"
+        },
+        {
+          "identifier": "vanilla-extract"
+        }
+      ],
+      "product-atoms": [
+        "oatmeal-cookie-dough",
+        "oatmeal-cookies",
+        "cookie-packaging"
+      ],
+      "tool-list-atoms": [
+        "mixing-bowl",
+        "whisk",
+        "measuring-cups",
+        "measuring-spoons",
+        "electric-mixer",
+        "baking-sheet",
+        "oven",
+        "cooling-rack"
+      ],
+      "processes": [
+        {
+          "identifier": "mixing"
+        },
+        {
+          "identifier": "baking"
+        },
+        {
+          "identifier": "cooling"
+        },
+        {
+          "identifier": "packaging"
+        }
+      ]
+    },
+    "OKH": {
+      "date-created": "2024-03-01",
+      "date-updated": "2024-03-01",
+      "manifest-author": {
+        "name": "Baker Bob",
+        "affiliation": "Sweet Treats Bakery",
+        "email": "bakerbob@sweetreats.com"
+      },
+      "title": "Oatmeal Cookie",
+      "description": "A delicious oatmeal cookie recipe for a chaotic baking environment",
+      "intended-use": "Baking oatmeal cookies for personal consumption or sale",
+      "keywords": [
+        "oatmeal",
+        "cookie",
+        "baking",
+        "chaotic environment"
+      ],
+      "project-link": "https://sweetreats.com/oatmeal-cookie",
+      "health-safety-notice": "Be careful when handling hot baking sheets and sharp objects",
+      "contact": {
+        "name": "Baker Bob",
+        "affiliation": "Sweet Treats Bakery",
+        "email": "bakerbob@sweetreats.com"
+      },
+      "contributors": [
+        {
+          "name": "Baker Bob",
+          "affiliation": "Sweet Treats Bakery",
+          "email": "bakerbob@sweetreats.com"
+        }
+      ],
+      "image": "https://sweetreats.com/oatmeal-cookie-image.jpg",
+      "version": "1.0",
+      "development-stage": "Production",
+      "made": true,
+      "made-independently": true,
+      "standards-used": [
+        {
+          "standard-title": "Food Safety Standards",
+          "publisher": "FDA",
+          "reference": "FDA Food Safety Standards"
+        }
+      ],
+      "derivative-of": {
+        "title": "Original Oatmeal Cookie Recipe",
+        "manifest": "https://originalrecipe.com/oatmeal-cookie-manifest"
+      },
+      "variant-of": {
+        "title": "Oatmeal Raisin Cookie",
+        "manifest": "https://oatmealraisin.com/oatmeal-raisin-cookie-manifest"
+      },
+      "sub": {
+        "title": "Oatmeal",
+        "manifest": "https://oatmeal.com/oatmeal-manifest"
+      },
+      "license": {
+        "documentation": "CC BY-SA 4.0",
+        "hardware": "CC BY-SA 4.0",
+        "software": "CC BY-SA 4.0"
+      },
+      "licensor": {
+        "name": "Baker Bob",
+        "affiliation": "Sweet Treats Bakery",
+        "email": "bakerbob@sweetreats.com"
+      },
+      "documentation-home": "https://sweetreats.com/oatmeal-cookie-documentation",
+      "archive-download": "https://sweetreats.com/oatmeal-cookie-archive.zip",
+      "design-files": [
+        {
+          "title": "Oatmeal Cookie Design",
+          "path": "https://sweetreats.com/oatmeal-cookie-design.pdf"
+        }
+      ],
+      "schematics": [
+        {
+          "title": "Oatmeal Cookie Schematics",
+          "path": "https://sweetreats.com/oatmeal-cookie-schematics.pdf"
+        }
+      ],
+      "bom": {
+        "title": "Oatmeal Cookie Bill of Materials",
+        "path": "https://sweetreats.com/oatmeal-cookie-bom.csv"
+      },
+      "tool-list": {
+        "title": "Oatmeal Cookie Tool List",
+        "path": "https://sweetreats.com/oatmeal-cookie-tool-list.csv"
+      },
+      "making-instructions": [
+        {
+          "title": "Oatmeal Cookie Making Instructions",
+          "path": "https://sweetreats.com/oatmeal-cookie-instructions.pdf"
+        }
+      ],
+      "manufacturing-files": {
+        "title": "Oatmeal Cookie Manufacturing Files",
+        "path": "https://sweetreats.com/oatmeal-cookie-manufacturing-files.zip"
+      },
+      "risk-assessment": [
+        {
+          "title": "Oatmeal Cookie Risk Assessment",
+          "path": "https://sweetreats.com/oatmeal-cookie-risk-assessment.pdf"
+        }
+      ],
+      "tool-settings": [
+        {
+          "title": "Oatmeal Cookie Tool Settings",
+          "path": "https://sweetreats.com/oatmeal-cookie-tool-settings.pdf"
+        }
+      ],
+      "quality-instructions": [
+        {
+          "title": "Oatmeal Cookie Quality Instructions",
+          "path": "https://sweetreats.com/oatmeal-cookie-quality-instructions.pdf"
+        }
+      ],
+      "operating-instructions": [
+        {
+          "title": "Oatmeal Cookie Operating Instructions",
+          "path": "https://sweetreats.com/oatmeal-cookie-operating-instructions.pdf"
+        }
+      ],
+      "maintenance-instructions": [
+        {
+          "title": "Oatmeal Cookie Maintenance Instructions",
+          "path": "https://sweetreats.com/oatmeal-cookie-maintenance-instructions.pdf"
+        }
+      ],
+      "disposal-instructions": [
+        {
+          "title": "Oatmeal Cookie Disposal Instructions",
+          "path": "https://sweetreats.com/oatmeal-cookie-disposal-instructions.pdf"
+        }
+      ],
+      "software": [
+        {
+          "title": "Oatmeal Cookie Software",
+          "path": "https://sweetreats.com/oatmeal-cookie-software.zip"
+        }
+      ],
+      "manifest-language": "en-US",
+      "documentation_language": "en-US",
+      "product-atom": "oatmeal-cookie",
+      "bom-atoms": [
+        "oatmeal",
+        "sugar",
+        "butter",
+        "eggs",
+        "flour",
+        "baking-soda",
+        "salt",
+        "vanilla-extract"
+      ],
+      "tool-list-atoms": [
+        "mixing-bowl",
+        "whisk",
+        "measuring-cups",
+        "measuring-spoons",
+        "electric-mixer",
+        "baking-sheet",
+        "oven"
+      ],
+      "bom-output-atoms": [
+        {
+          "identifier": "oatmeal-cookie"
+        }
+      ]
+    }
+  },
+  "Pancake": {
+    "OKW": {
+      "title": "Pancake Recipe for Chaotic Environment",
+      "description": "A simple pancake recipe to be used in a chaotic baking environment, with potential disruptions or uncertainties",
+      "contact": "Baker's Hotline",
+      "keywords": [
+        "Pancake",
+        "Baking",
+        "Chaotic Environment",
+        "Recipe"
+      ],
+      "contributors": [
+        "Head Baker",
+        "Assistant Baker"
+      ],
+      "version": "1.0",
+      "development-stage": "Production",
+      "license": "MIT",
+      "licensor": "Baker's Association",
+      "documentation-home": "https://bakersassociation.com/recipes/pancake",
+      "archive-download": "https://bakersassociation.com/recipes/pancake/archive",
+      "inventory-atoms": [
+        "Flour",
+        "Sugar",
+        "Eggs",
+        "Milk",
+        "Butter",
+        "Baking Powder",
+        "Salt"
+      ],
+      "product-atoms": [
+        {
+          "identifier": "Pancake Batter",
+          "components": [
+            {
+              "identifier": "Flour",
+              "quantity": "1 cup"
+            },
+            {
+              "identifier": "Sugar",
+              "quantity": "2 tablespoons"
+            },
+            {
+              "identifier": "Eggs",
+              "quantity": "1"
+            },
+            {
+              "identifier": "Milk",
+              "quantity": "1 cup"
+            },
+            {
+              "identifier": "Butter",
+              "quantity": "2 tablespoons"
+            },
+            {
+              "identifier": "Baking Powder",
+              "quantity": "1 teaspoon"
+            },
+            {
+              "identifier": "Salt",
+              "quantity": "1/4 teaspoon"
+            }
+          ]
+        },
+        {
+          "identifier": "Pancake",
+          "components": [
+            {
+              "identifier": "Pancake Batter",
+              "quantity": "1/4 cup"
+            }
+          ]
+        }
+      ],
+      "tool-list-atoms": [
+        "Mixing Bowl",
+        "Whisk",
+        "Measuring Cups",
+        "Measuring Spoons",
+        "Electric Mixer",
+        "Non-Stick Pan",
+        "Spatula"
+      ],
+      "processes": [
+        {
+          "identifier": "Mixing",
+          "description": "Mix all dry ingredients (flour, sugar, baking powder, salt) in a bowl",
+          "inputs": [
+            "Flour",
+            "Sugar",
+            "Baking Powder",
+            "Salt"
+          ],
+          "outputs": [
+            "Dry Mix"
+          ]
+        },
+        {
+          "identifier": "Wet Mixing",
+          "description": "Mix all wet ingredients (eggs, milk, butter) in a separate bowl",
+          "inputs": [
+            "Eggs",
+            "Milk",
+            "Butter"
+          ],
+          "outputs": [
+            "Wet Mix"
+          ]
+        },
+        {
+          "identifier": "Batter Mixing",
+          "description": "Combine dry and wet mixes to form the pancake batter",
+          "inputs": [
+            "Dry Mix",
+            "Wet Mix"
+          ],
+          "outputs": [
+            "Pancake Batter"
+          ]
+        },
+        {
+          "identifier": "Cooking",
+          "description": "Heat a non-stick pan over medium heat and cook the pancake batter",
+          "inputs": [
+            "Pancake Batter"
+          ],
+          "outputs": [
+            "Pancake"
+          ]
+        }
+      ]
+    },
+    "OKH": {
+      "date-created": "2024-03-01",
+      "date-updated": "2024-03-01",
+      "manifest-author": {
+        "name": "John Doe",
+        "affiliation": "Bakery",
+        "email": "johndoe@example.com"
+      },
+      "title": "Pancake Recipe",
+      "description": "A simple pancake recipe for a chaotic environment",
+      "intended-use": "Breakfast food",
+      "keywords": [
+        "pancake",
+        "breakfast",
+        "food"
+      ],
+      "project-link": "https://example.com/pancake-recipe",
+      "health-safety-notice": "Handle hot pans with care",
+      "contact": {
+        "name": "Jane Doe",
+        "affiliation": "Bakery",
+        "email": "janedoe@example.com"
+      },
+      "contributors": [
+        {
+          "name": "John Doe",
+          "affiliation": "Bakery",
+          "email": "johndoe@example.com"
+        },
+        {
+          "name": "Jane Doe",
+          "affiliation": "Bakery",
+          "email": "janedoe@example.com"
+        }
+      ],
+      "image": "https://example.com/pancake-image.jpg",
+      "version": "1.0",
+      "development-stage": "Production",
+      "made": true,
+      "made-independently": true,
+      "standards-used": [
+        {
+          "standard-title": "Food Safety Standard",
+          "publisher": "FDA",
+          "reference": "FDA-101"
+        }
+      ],
+      "derivative-of": {
+        "title": "Original Pancake Recipe",
+        "manifest": "https://example.com/original-pancake-recipe",
+        "web": "https://example.com/original-pancake-recipe-web"
+      },
+      "variant-of": {
+        "title": "Blueberry Pancake Recipe",
+        "manifest": "https://example.com/blueberry-pancake-recipe",
+        "web": "https://example.com/blueberry-pancake-recipe-web"
+      },
+      "sub": {
+        "title": "Pancake Mix",
+        "manifest": "https://example.com/pancake-mix",
+        "web": "https://example.com/pancake-mix-web"
+      },
+      "license": {
+        "documentation": "CC-BY-SA",
+        "hardware": "None",
+        "software": "None"
+      },
+      "licensor": {
+        "name": "John Doe",
+        "affiliation": "Bakery",
+        "email": "johndoe@example.com"
+      },
+      "documentation-home": "https://example.com/pancake-recipe-docs",
+      "archive-download": "https://example.com/pancake-recipe-archive.zip",
+      "design-files": [
+        {
+          "title": "Pancake Recipe Design",
+          "path": "https://example.com/pancake-recipe-design.pdf"
+        }
+      ],
+      "schematics": [
+        {
+          "title": "Pancake Recipe Schematics",
+          "path": "https://example.com/pancake-recipe-schematics.pdf"
+        }
+      ],
+      "bom": {
+        "title": "Pancake Recipe BOM",
+        "path": "https://example.com/pancake-recipe-bom.csv"
+      },
+      "tool-list": {
+        "title": "Pancake Recipe Tool List",
+        "path": "https://example.com/pancake-recipe-tool-list.csv"
+      },
+      "making-instructions": [
+        {
+          "title": "Pancake Recipe Instructions",
+          "path": "https://example.com/pancake-recipe-instructions.pdf"
+        }
+      ],
+      "manufacturing-files": {
+        "title": "Pancake Recipe Manufacturing Files",
+        "path": "https://example.com/pancake-recipe-manufacturing-files.zip"
+      },
+      "risk-assessment": [
+        {
+          "title": "Pancake Recipe Risk Assessment",
+          "path": "https://example.com/pancake-recipe-risk-assessment.pdf"
+        }
+      ],
+      "tool-settings": [
+        {
+          "title": "Pancake Recipe Tool Settings",
+          "path": "https://example.com/pancake-recipe-tool-settings.pdf"
+        }
+      ],
+      "quality-instructions": [
+        {
+          "title": "Pancake Recipe Quality Instructions",
+          "path": "https://example.com/pancake-recipe-quality-instructions.pdf"
+        }
+      ],
+      "operating-instructions": [
+        {
+          "title": "Pancake Recipe Operating Instructions",
+          "path": "https://example.com/pancake-recipe-operating-instructions.pdf"
+        }
+      ],
+      "maintenance-instructions": [
+        {
+          "title": "Pancake Recipe Maintenance Instructions",
+          "path": "https://example.com/pancake-recipe-maintenance-instructions.pdf"
+        }
+      ],
+      "disposal-instructions": [
+        {
+          "title": "Pancake Recipe Disposal Instructions",
+          "path": "https://example.com/pancake-recipe-disposal-instructions.pdf"
+        }
+      ],
+      "software": [
+        {
+          "title": "Pancake Recipe Software",
+          "path": "https://example.com/pancake-recipe-software.zip"
+        }
+      ],
+      "manifest-language": "en-US",
+      "documentation_language": "en-US",
+      "product-atom": "Pancake",
+      "bom-atoms": [
+        "Flour",
+        "Sugar",
+        "Eggs",
+        "Milk",
+        "Butter",
+        "Salt",
+        "Baking Powder"
+      ],
+      "tool-list-atoms": [
+        "Mixing Bowl",
+        "Whisk",
+        "Measuring Cups",
+        "Measuring Spoons",
+        "Electric Mixer",
+        "Spatula",
+        "Frying Pan"
+      ],
+      "bom-output-atoms": [
+        {
+          "identifier": "Pancake Batter"
+        },
+        {
+          "identifier": "Cooked Pancake"
+        }
+      ]
+    }
+  },
+  "Chocolate Cake": {
+    "OKW": {
+      "title": "Chocolate Cake",
+      "description": "A moist and delicious chocolate cake for any occasion",
+      "contact": "baker@example.com",
+      "keywords": [
+        "chocolate",
+        "cake",
+        "baking",
+        "dessert"
+      ],
+      "contributors": [
+        "John Doe",
+        "Jane Smith"
+      ],
+      "version": "1.0",
+      "development-stage": "production",
+      "license": "MIT",
+      "licensor": "Open Know-Where",
+      "documentation-home": "https://example.com/chocolate-cake-docs",
+      "archive-download": "https://example.com/chocolate-cake-archive",
+      "inventory-atoms": [
+        {
+          "identifier": "flour"
+        },
+        {
+          "identifier": "sugar"
+        },
+        {
+          "identifier": "cocoa powder"
+        },
+        {
+          "identifier": "eggs"
+        },
+        {
+          "identifier": "milk"
+        },
+        {
+          "identifier": "butter"
+        },
+        {
+          "identifier": "vanilla extract"
+        },
+        {
+          "identifier": "baking powder"
+        },
+        {
+          "identifier": "salt"
+        }
+      ],
+      "product-atoms": [
+        "chocolate cake",
+        "chocolate frosting",
+        "sprinkles"
+      ],
+      "tool-list-atoms": [
+        "mixing bowl",
+        "whisk",
+        "measuring cups",
+        "electric mixer",
+        "cake pan",
+        "oven"
+      ],
+      "processes": [
+        {
+          "identifier": "preheating the oven"
+        },
+        {
+          "identifier": "mixing the batter"
+        },
+        {
+          "identifier": "baking the cake"
+        },
+        {
+          "identifier": "preparing the frosting"
+        },
+        {
+          "identifier": "assembling the cake"
+        }
+      ]
+    },
+    "OKH": {
+      "date-created": "2024-03-01",
+      "date-updated": "2024-03-01",
+      "manifest-author": {
+        "name": "Baker Bob",
+        "affiliation": "Sweet Treats Bakery",
+        "email": "bakerbob@sweetreats.com"
+      },
+      "title": "Chocolate Cake",
+      "description": "A rich, moist chocolate cake perfect for any occasion.",
+      "intended-use": "For personal consumption or as a dessert for special events.",
+      "keywords": [
+        "chocolate cake",
+        "baking",
+        "dessert"
+      ],
+      "project-link": "https://sweetreats.com/chocolate-cake",
+      "health-safety-notice": "Please ensure proper food safety handling and storage practices.",
+      "contact": {
+        "name": "Baker Bob",
+        "affiliation": "Sweet Treats Bakery",
+        "email": "bakerbob@sweetreats.com"
+      },
+      "contributors": [
+        {
+          "name": "Baker Bob",
+          "affiliation": "Sweet Treats Bakery",
+          "email": "bakerbob@sweetreats.com"
+        }
+      ],
+      "image": "https://sweetreats.com/chocolate-cake.jpg",
+      "version": "1.0",
+      "development-stage": "Production",
+      "made": true,
+      "made-independently": true,
+      "standards-used": [
+        {
+          "standard-title": "Food Safety Standards",
+          "publisher": "FDA",
+          "reference": "21 CFR 110"
+        }
+      ],
+      "derivative-of": null,
+      "variant-of": null,
+      "sub": null,
+      "license": {
+        "documentation": "CC-BY-SA-4.0",
+        "hardware": "None",
+        "software": "None"
+      },
+      "licensor": {
+        "name": "Baker Bob",
+        "affiliation": "Sweet Treats Bakery",
+        "email": "bakerbob@sweetreats.com"
+      },
+      "documentation-home": "https://sweetreats.com/chocolate-cake/docs",
+      "archive-download": "https://sweetreats.com/chocolate-cake/archive.zip",
+      "design-files": [
+        {
+          "title": "Recipe",
+          "path": "https://sweetreats.com/chocolate-cake/recipe.txt"
+        }
+      ],
+      "schematics": [
+        {
+          "title": "Cake Diagram",
+          "path": "https://sweetreats.com/chocolate-cake/diagram.png"
+        }
+      ],
+      "bom": {
+        "title": "Bill of Materials",
+        "path": "https://sweetreats.com/chocolate-cake/bom.txt"
+      },
+      "tool-list": {
+        "title": "Tool List",
+        "path": "https://sweetreats.com/chocolate-cake/tool-list.txt"
+      },
+      "making-instructions": [
+        {
+          "title": "Baking Instructions",
+          "path": "https://sweetreats.com/chocolate-cake/baking-instructions.txt"
+        }
+      ],
+      "manufacturing-files": null,
+      "risk-assessment": null,
+      "tool-settings": null,
+      "quality-instructions": null,
+      "operating-instructions": null,
+      "maintenance-instructions": null,
+      "disposal-instructions": null,
+      "software": null,
+      "manifest-language": "en-US",
+      "documentation_language": "en-US",
+      "manifest-is-translation": null,
+      "documentation-is-translation": null,
+      "product-atom": "Chocolate Cake (2 lbs)",
+      "bom-atoms": [
+        "All-purpose flour (2 cups)",
+        "Granulated sugar (1 cup)",
+        "Unsweetened cocoa powder (1 cup)",
+        "Baking powder (1 tsp)",
+        "Salt (1/2 tsp)",
+        "Whole milk (1 cup)",
+        "Large eggs (2)",
+        "Vegetable oil (1/2 cup)",
+        "Vanilla extract (1 tsp)"
+      ],
+      "tool-list-atoms": [
+        "9-inch round cake pan",
+        "Mixing bowls",
+        "Measuring cups",
+        "Measuring spoons",
+        "Electric mixer",
+        "Whisk",
+        "Rubber spatula",
+        "Oven"
+      ],
+      "bom-output-atoms": [
+        {
+          "identifier": "Chocolate Cake (2 lbs)"
+        }
+      ]
+    }
+  }
+}
