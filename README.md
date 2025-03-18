@@ -3,19 +3,11 @@
 ## Overview
 This project implements a **manually versioned prompt engineering approach** for generating **synthetic data** in the **Open Knowledge Framework (OKF)**, a supply chain resilience framework. Specifically, it supports generating structured data for:
 
-- **OKW (Open Know Where)**: Focused on **location, facility, and tooling data**.
-- **OKH (Open Know How)**: Focused on **manufacturing and production instructions**.
+- **OKW (Open Know Where)**
+- **OKH (Open Know How)**
 
 The project leverages **LLMs (Large Language Models) via the Groq API** to generate realistic, structured JSON data that adheres to predefined **JSON schemas**. This approach ensures flexibility in generating domain-specific synthetic data across multiple versions.
 
----
-
-## Features
-- **Versioned Prompt Engineering**: Each version has its own prompt and schema files for controlled updates.
-- **Dynamic Schema & Prompt Handling**: Automatically loads the correct schema and prompt for each version.
-- **Automated Data Generation**: Generates valid JSON outputs for different products and domains.
-- **Multiple Domains Supported**: Generates data for various industries, such as **cooking and manufacturing**.
-- **Structured Data Output**: Ensures compliance with OKW and OKH standards.
 
 ---
 
